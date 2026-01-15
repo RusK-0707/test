@@ -1,0 +1,12 @@
+/* 全体の基本スタイル設定 */
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #000000; /* 初期背景色を黒に設定 */
+    color: #00FFFF; /* 初期文字色を青に設定 */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /* カッコいいフォントを使用 */
+}
